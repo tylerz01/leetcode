@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         //[3,4,5,6]
